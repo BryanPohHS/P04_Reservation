@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Full Name</string>
+    <string name="contact">Contact Number</string>
+    <string name="groupSize">No. Of People</string>
+    <string name="etName" />
+    <string name="date_title">Date Of Reservation</string>
+    <string name="timePicker">Time Of Reservation</string>
+    <string name="cb_smoke">Smoking Table?</string>
+    <string name="cb_noSmoking">No Smoking Table</string>
+    <string name="cb_Smoking">Smoking Table</string>
+    <string name="titleSmoking">Table Choice :</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit Booking</string>
+    <string name="submissionTitle">Confirmation Page</string>
+    <string name="nameTItle">Name :</string>
+    <string name="noOfPeople">Number of guests :</string>
+    <string name="date">Date of reservation :</string>
+    <string name="time">Time of reservation :</string>
+    <string name="table">Table Choice :</string>
+</resources>
